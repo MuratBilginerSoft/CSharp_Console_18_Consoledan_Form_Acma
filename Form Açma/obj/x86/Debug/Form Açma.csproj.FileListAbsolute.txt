@@ -1,0 +1,14 @@
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\bin\Debug\Form Açma.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\bin\Debug\Form Açma.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\obj\x86\Debug\Form Açma.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\obj\x86\Debug\Form Açma.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\obj\x86\Debug\Form Açma.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\obj\x86\Debug\Form Açma.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\bin\Debug\Form Açma.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\bin\Debug\Form Açma.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\Form Açma\Form Açma\obj\x86\Debug\Form Açma.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\06 - Console Projeler\22 Consoledan Form Açma\Form Açma\obj\x86\Debug\Form Açma.exe
+E:\03 - Yazılım\06 - Console Projeler\22 Consoledan Form Açma\Form Açma\obj\x86\Debug\Form Açma.pdb
+E:\03 - Yazılım\06 - Console Projeler\22 Consoledan Form Açma\Form Açma\bin\Debug\Form Açma.exe
+E:\03 - Yazılım\06 - Console Projeler\22 Consoledan Form Açma\Form Açma\bin\Debug\Form Açma.pdb
+E:\03 - Yazılım\06 - Console Projeler\22 Consoledan Form Açma\Form Açma\obj\x86\Debug\Form Açma.csprojResolveAssemblyReference.cache
